@@ -1,6 +1,6 @@
 ## Plasma metabolomic profiles associated with mortality and longevity in a prospective analysis of 13,512 individuals
 
-### Code files in this repository covers the main analyses for the paper:
+### Code files in this repository covers the main analyses:
 
 ### 1. Metabolome-wide association analysis to assess the association between individual metabolite and mortality/longevity;
 ### 2. Metaboltie set enrichment analysis (MSEA) to examine the association between knowledge-based metabolite groups and mortality/longevity;
